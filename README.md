@@ -1,2 +1,2 @@
 # QUANTUM-MINDS
-Here is the fake news detector website to help.
+Having internet is great but also sets a very wrong idea of spreading fake news, as everyone has access to it fake news spreads faster than ever, so to prevent this by creating a nlp model that will surf through the internet to check whether the news is genuine or not will not only prevent from such spreading of fake news but help people put more trust into the news they are getting.
