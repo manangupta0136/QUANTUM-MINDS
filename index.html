@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fake News Detection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fake News Detection</h1>
+    <p>Enter the news text below to analyze its authenticity.</p>
+  </header>
+  
+  <section class="input-section">
+    <textarea placeholder="Paste news content here..." id="news-input"></textarea>
+    <button onclick="analyzeNews()">Analyze</button>
+  </section>
+  
+  <section class="result-section" id="result-section">
+    <h2>Result</h2>
+    <p id="result-text">The analysis result will appear here.</p>
+  </section>
+  
+  <footer>
+    <p>&copy; 2024 Fake News Detection Project</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
